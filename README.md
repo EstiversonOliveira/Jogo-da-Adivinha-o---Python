@@ -1,5 +1,5 @@
 <html>
-  # Jogo-da-Adivinhação---Python
+  <h1># Jogo-da-Adivinhação---Python</h1>
   <p>Primeiro Jogo em Python. Jogo da Adivinhação.</p>
   <p>Tente adivinhar um número de zero a mil. Digite.</p>
   <p>O jogo te da dicas, informando se o número real é maior ou menor do que o número digitado.</p>
