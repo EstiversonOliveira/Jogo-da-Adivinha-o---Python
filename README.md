@@ -1,5 +1,5 @@
 <html>
-  <h1># Jogo-da-Adivinhação---Python</h1>
+  <h1># Jogo da Adivinhação - Python</h1>
   <p>Primeiro Jogo em Python. Jogo da Adivinhação.</p>
   
   <p> O código pode ser copiado e colado no sehinte link para teste : </p>
